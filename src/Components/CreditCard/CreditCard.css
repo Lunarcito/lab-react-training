@@ -1,0 +1,28 @@
+.creditCardCont{
+    height:100px;
+    width: 280px;
+    margin: 20px;
+    padding:20px;
+    border-radius: 20px;
+    line-height: 20px;
+
+}
+
+.logo{
+    width: 50px;
+    margin-left: 150px;
+    position: flex;
+
+}
+
+.number {
+    text-align: center;
+}
+
+.cardText{
+    margin-top: 40px;
+    text-align: left;
+    font-size: 24px;
+    
+
+}
